@@ -1,0 +1,13 @@
+package codingnomads.co.springfundamentalslab;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class SpringFundamentalsLabApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
